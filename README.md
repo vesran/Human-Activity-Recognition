@@ -13,8 +13,13 @@ There two main files : one contains the data without classes and one contains cl
 
 # Code structure
 "Main.java" : Show the error% using k-fold cross-validation. Data are divided in parts of length 1000.
+
 "MultiLayerPerceptron.java"
+
 "Layer.java" : Linked list of layer makes forward and backward propagation processes easier to manage.
+
 "OutputLayer.java"
+
 "Neuron.java"
+
 "Batch.java" : Reading and carring data.
