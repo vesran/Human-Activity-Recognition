@@ -6,7 +6,7 @@ Average_error% = 18% (k-fold cross-validation)
 # Dataset
 Link: https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition
 
-561 columns
+561 columns ; 
 7352 lines
 
 There two main files : one contains the data without classes and one contains classes only.
