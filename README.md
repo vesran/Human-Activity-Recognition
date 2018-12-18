@@ -1,6 +1,7 @@
 # Human-Activity-Recognition
 Classify different physical activities from motion sensors data (accelerometers and gyroscope) colleted in smartphones and smartwatches by using a multilayer perceptron (implemented from scratch). 
 Activities : ‘Biking’, ‘Sitting’, ‘Standing’, ‘Walking’, ‘Stair Up’ and ‘Stair down’.
+
 Average_error% = 18% (k-fold cross-validation)
 
 # Dataset
