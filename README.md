@@ -4,7 +4,7 @@ Activities : ‘Biking’, ‘Sitting’, ‘Standing’, ‘Walking’, ‘Stai
 
 Average_error% = 18% (k-fold cross-validation)
 
-# Dataset
+## Dataset
 Link: https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition
 
 561 columns ; 
@@ -12,15 +12,6 @@ Link: https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition
 
 There two main files : one contains the data without classes and one contains classes only.
 
-# Code structure
-"Main.java" : Show the error% using k-fold cross-validation. Data are divided in parts of length 1000.
 
-"MultiLayerPerceptron.java"
-
-"Layer.java" : Linked list of layer makes forward and backward propagation processes easier to manage.
-
-"OutputLayer.java"
-
-"Neuron.java"
-
-"Batch.java" : Reading and carring data.
+## Ackknowledgement
+This project was intended as an exercise to understand the concept of Neural Network in Machine Learning. That is the reason why I chose to everything from scratch.
