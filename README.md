@@ -14,4 +14,4 @@ There two main files : one contains the data without classes and one contains cl
 
 
 ## Ackknowledgement
-This project was intended as an exercise to understand the concept of Neural Network in Machine Learning. That is the reason why I chose to everything from scratch.
+This personal project was intended as an exercise to understand the concept of Neural Network in Machine Learning. That is the reason why I chose to everything from scratch.
